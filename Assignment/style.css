@@ -1,0 +1,179 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+img {
+    margin-left: 4%;
+    margin-top: 2%;
+}
+
+h2 {
+    margin-left: 1%;
+    margin-bottom: -6%;
+    display: inline;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    margin-left: 5%;
+}
+
+i {
+    margin-left: 3%;
+}
+
+#button {
+    background-color: rgb(247, 87, 18);
+    color: white;
+    height: 30px;
+    width: 11%;
+    border-style: none;
+    margin-left: 2%;
+}
+
+#shopnow {
+    background-color: rgb(247, 87, 18);
+    color: white;
+    height: 30px;
+    width: 11%;
+    border-style: none;
+}
+
+#send {
+    background-color: rgb(247, 87, 18);
+    color: white;
+    height: 30px;
+    width: 11%;
+    border-style: none;
+}
+
+#Subscribe{
+    background-color: rgb(247, 87, 18);
+    color: white;
+    height: 30px;
+    width: 25%;
+    border-style: none;
+}
+
+#blackbutton {
+    background-color:black;
+    color: white;
+    height: 30px;
+    width: 11%;
+}
+
+#parttwo {
+    margin-left: 4%;
+}
+
+h1 {
+    font-size: 350%;
+    display: inline;
+}
+
+#slide {
+    margin-left: 60%;
+    margin-top: -18%;
+}
+
+h3 {
+    font-size: 150%;
+}
+
+p {
+    font-size: 150%;
+}
+
+#orange {
+    color: rgb(247, 87, 18);
+}
+
+#services {
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    height: 360px;
+    width: 25%;
+    border-radius: 3%;
+    margin-left: -64%;
+    display: inline-block;
+    margin-right: 5%;
+}
+
+h4 {
+        color: orange;
+        font-family: sans-serif;
+        font-size: 140%;
+}
+
+#servicestwo {
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    height: 360px;
+    width: 25%;
+    border-radius: 3%;
+    display: block;
+    margin-top: -32%;
+}
+
+#servicesthree {
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    height: 360px;
+    width: 25%;
+    border-radius: 3%;
+    display: block;
+    margin-left: 63%;
+    margin-top: -33%;
+}
+
+#freshfruits {
+    margin-left: 3%;
+}
+
+#freshfruitstwo {
+    padding-left: 70%;
+    margin-top: -13%;
+}
+
+.contact-data input{
+    border: none;
+    border-bottom: 1px solid black;
+    width: 70%;
+ }
+
+ #orangedish {
+    margin-left: 80%;
+    margin-top: -23%;
+ }
+
+ #serv {
+    margin-left: 17%;
+    margin-top: -18%;
+}
+
+#lit {
+    margin-left: 35%;
+    margin-top: -18%;
+}
+
+#followus {
+    margin-left: 70%;
+    margin-top: -18%;
+}
+
+h5 {
+    font-size: 150%;
+}
+
+#last {
+    background-color: rgb(169, 169, 169);
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
